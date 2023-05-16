@@ -1,4 +1,8 @@
 HELP.md
+<<<<<<< Updated upstream
+=======
+##target/
+>>>>>>> Stashed changes
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
